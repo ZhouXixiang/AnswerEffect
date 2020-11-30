@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AnswerEffect.iml" filepath="$PROJECT_DIR$/AnswerEffect.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sticky-head-library/sticky-head-library.iml" filepath="$PROJECT_DIR$/sticky-head-library/sticky-head-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnswerEffect.iml" filepath="$PROJECT_DIR$/.idea/modules/AnswerEffect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AnswerEffect.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AnswerEffect.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/AnswerEffect.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/AnswerEffect.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library/AnswerEffect.library.iml" filepath="$PROJECT_DIR$/.idea/modules/library/AnswerEffect.library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sticky-head-library/AnswerEffect.sticky-head-library.iml" filepath="$PROJECT_DIR$/.idea/modules/sticky-head-library/AnswerEffect.sticky-head-library.iml" />
     </modules>
   </component>
 </project>
